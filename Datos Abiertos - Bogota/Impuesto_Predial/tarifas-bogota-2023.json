@@ -1,0 +1,240 @@
+{
+  "city": "Bogota",
+  "year": 2023,
+  "currency": "COP",
+  "valuation_from": 0,
+  "valuation_to": 144620000,
+  "rate_per_thousand": 5.5
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 144620001,
+    "valuation_to": 154113000 ,
+    "rate_per_thousand" : 5.6
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 154113001,
+    "valuation_to": 177419000 ,
+    "rate_per_thousand" : 5.7
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 177419001,
+    "valuation_to":  200726000 ,
+    "rate_per_thousand" : 5.8
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 200726001,
+    "valuation_to":  224033000 ,
+    "rate_per_thousand" : 5.9
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 224033001,
+    "valuation_to":  247339000  ,
+    "rate_per_thousand" : 6
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 247339001,
+    "valuation_to":  270645000   ,
+    "rate_per_thousand" : 6.1
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 270645001,
+    "valuation_to": 293952000,
+    "rate_per_thousand" : 6.2
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 293952001,
+    "valuation_to": 332796000 ,
+    "rate_per_thousand" : 6.3
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 332796001,
+    "valuation_to": 371643000  ,
+    "rate_per_thousand" : 6.4
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 371643001,
+    "valuation_to": 410485000   ,
+    "rate_per_thousand" : 6.5
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 410485001,
+    "valuation_to": 449330000   ,
+    "rate_per_thousand" : 6.6
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 449330001,
+    "valuation_to": 488174000   ,
+    "rate_per_thousand" : 6.8
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 488174001,
+    "valuation_to": 527019000,
+    "rate_per_thousand" : 7
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 5270190001,
+    "valuation_to": 565862000,
+    "rate_per_thousand" : 7.2
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 565862001,
+    "valuation_to": 604707000,
+    "rate_per_thousand" : 7.4
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 604707001,
+    "valuation_to": 643552000,
+    "rate_per_thousand" : 7.6
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 643552001,
+    "valuation_to": 697934000,
+    "rate_per_thousand" : 7.8
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 697934001,
+    "valuation_to": 752317000,
+    "rate_per_thousand" : 8
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 752317001,
+    "valuation_to": 806697000,
+    "rate_per_thousand" : 8.2
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 806697001,
+    "valuation_to": 861082000,
+    "rate_per_thousand" : 8.4
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 861082001,
+    "valuation_to": 915462000,
+    "rate_per_thousand" : 8.6
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 915462001,
+    "valuation_to": 969844000,
+    "rate_per_thousand" : 8.8
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 969844001,
+    "valuation_to": 1024227000,
+    "rate_per_thousand" : 9
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 1024227001,
+    "valuation_to": 1078609000,
+    "rate_per_thousand" : 9.2
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 1078609001,
+    "valuation_to": 1272830000,
+    "rate_per_thousand" : 9.5
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 1272830001,
+    "valuation_to": 1467055000,
+    "rate_per_thousand" : 10.1
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 1467055001,
+    "valuation_to": 1661277000,
+    "rate_per_thousand" : 10.8
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 1661277001,
+    "valuation_to": 1864532000,
+    "rate_per_thousand" : 11.5
+},
+{
+    "city": "Bogota",
+    "year": 2023,
+    "currency": "COP",
+    "valuation_from": 1864532001,
+    "rate_per_thousand" : 12.3
+}
+

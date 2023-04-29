@@ -1,0 +1,1452 @@
+{
+  "type": "FeatureCollection",
+  "name": "Notaria",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "link": "https://datosabiertos.bogota.gov.co/dataset/notaria",
+  "description": "Entidad perteneciente a la Superintendencia de Notariado y Registro, en donde se prestan el servicio público registral, comprendido en la orientación, inspección, vigilancia y control de los servicios públicos que prestan los Notarios y los Registradores de Instrumentos Públicos en la ciudad de Bogotá D.C, con el fin de garantizar la guarda de la fe pública, la seguridad jurídica y administración del servicio público registral inmobiliario, para que estos servicios se desarrollen conforme a la ley y bajo los principios de eficiencia, eficacia y efectividad.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1,
+        "NOTNUMNOT": 1,
+        "NOTNOMNOT": "Notaría 1",
+        "NOTDIRECCI": "Calle 16 # 4-62",
+        "NOTTELEFON": "2864266 - 3537125",
+        "NOTCINSTIT": "primerabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes 8:30 am a 5:30 pm jornada continua / Sábados de 8:00 am a 12:00 m",
+        "NOTNNOTARI": "Hermann Pieschacon Fonrodona",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.070548201999941, 4.601550470000063]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2,
+        "NOTNUMNOT": 2,
+        "NOTNOMNOT": "Notaría 2",
+        "NOTDIRECCI": "Carrera 13 # 64-29 Chapinero",
+        "NOTTELEFON": "3000861 - 3000862 - 3000863 - 3000860",
+        "NOTCINSTIT": "segundabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes 8:30 am a 5:50 pm jornada continua / Sábados 8:30 am a 1:00 pm",
+        "NOTNNOTARI": "Leovedis Elias Martinez Duran",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.063478982999982, 4.651230149000071]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3,
+        "NOTNUMNOT": 3,
+        "NOTNOMNOT": "Notaría 3",
+        "NOTDIRECCI": "Carrera 69 B # 34-02 Sur Barrio Carvajal",
+        "NOTTELEFON": "3905053",
+        "NOTCINSTIT": "tercerabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm jornada continua / Todos los Sábados de 9:00 am a 1:00 pm.",
+        "NOTNNOTARI": "Hector Adolfo Sintura Varela",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.137240693999956, 4.613009274000035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4,
+        "NOTNUMNOT": 4,
+        "NOTNOMNOT": "Notaría 4",
+        "NOTDIRECCI": "Carrera 8 # 17- 28/30",
+        "NOTTELEFON": "7519602 - 7519601 - 7519617 Fax: 7519632",
+        "NOTCINSTIT": "cuartabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:30 pm jornada continua / Sábados de turno de 8:00 am a 12 m",
+        "NOTNNOTARI": "Lina Maria Rodriguez Martinez",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.072909030999938, 4.604245713000068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 5,
+        "NOTNUMNOT": 5,
+        "NOTNOMNOT": "Notaría 5",
+        "NOTDIRECCI": "Carrera 15A # 120-63",
+        "NOTTELEFON": "3118989801-2151568",
+        "NOTCINSTIT": "quintabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes 8:30 am a 5:30 pm.",
+        "NOTNNOTARI": "Andres Hiber Arevalo Pacheco",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.044027, 4.699985793000053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6,
+        "NOTNUMNOT": 6,
+        "NOTNOMNOT": "Notaría 6",
+        "NOTDIRECCI": "Carrera 9 # 69 - 31",
+        "NOTTELEFON": "3179841",
+        "NOTCINSTIT": "sextabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes 8:15 am a 1:00 pm y de 2:00 pm a 5:45 pm / Sábado de turno de 8:00 am a 12:00 m",
+        "NOTNNOTARI": "Maria Amparo Quintero Arturo",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.059145193999939, 4.653087761000052]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7,
+        "NOTNUMNOT": 7,
+        "NOTNOMNOT": "Notaría 7",
+        "NOTDIRECCI": "Calle 12 B #8-39. Edificio BANCOQUIA",
+        "NOTTELEFON": "2826565 - 2826549 - 2826536",
+        "NOTCINSTIT": "septimabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm y Sábados de 9:00 am a 1:00 PM",
+        "NOTNNOTARI": "Ligia Josefina Eraso Cabrera",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.075569594999934, 4.600742814000057]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8,
+        "NOTNUMNOT": 8,
+        "NOTNOMNOT": "Notaría 8",
+        "NOTDIRECCI": "Carrera 15 # 82-19",
+        "NOTTELEFON": "2182175-2369037-6102090-3143563692-2362233",
+        "NOTCINSTIT": "octavabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes y Viernes de 8:30 am a 1:00 pm y 2:00 a 6:00 pm, Martes a Jueves de 8:00 am a 1:00 pm y 2:00 a 6:00 pm y Sábados de turno de 8:00 am a 12:00 m",
+        "NOTNNOTARI": "Fabio Orlando Castiblanco Calixto",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.056544632999987, 4.667705566000052]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 9,
+        "NOTNUMNOT": 9,
+        "NOTNOMNOT": "Notaría 9",
+        "NOTDIRECCI": "Carrera 15 # 80-90",
+        "NOTTELEFON": "7049839 - 7049853 - 7049852 - 7049841 - 7049836",
+        "NOTCINSTIT": "novenabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:30 pm jornada continua / Sábados de 8:30 am a 12:30 pm",
+        "NOTNNOTARI": "Elsa Villalobos Sarmiento",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.056395520999956, 4.66723408200005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 10,
+        "NOTNUMNOT": 10,
+        "NOTNOMNOT": "Notaría 10",
+        "NOTDIRECCI": "Av. Calle 100 # 10-45 chico norte",
+        "NOTTELEFON": "6111185-2181982",
+        "NOTCINSTIT": "decimabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:30 pm jornada continua - Sábados de turnos de 8:00 am a 12:00 m",
+        "NOTNNOTARI": "Oscar Antonio Hernandez Gomez",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.043108976999974, 4.682074195000041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11,
+        "NOTNUMNOT": 11,
+        "NOTNOMNOT": "Notaría 11",
+        "NOTDIRECCI": "Calle 85 # 10-74 (Barrio el Retiro)",
+        "NOTTELEFON": "2576232 -  3182403651 - 3153858930",
+        "NOTCINSTIT": "oncebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes, Martes, miércoles y Viernes de 8:00 am a 1:30 pm. y de 2:30 pm. a 6:oo pm. Jueves (jornada continua): de 8:30 am a 6:30 pm",
+        "NOTNNOTARI": "Guillermo Chavez Cristancho",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.050923060999935, 4.667850120000026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 12,
+        "NOTNUMNOT": 12,
+        "NOTNOMNOT": "Notaría 12",
+        "NOTDIRECCI": "Calle 95 # 11A-59",
+        "NOTTELEFON": "7399310 - 3187724096",
+        "NOTCINSTIT": "docebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Jueves de 8:00 am a 5:00 pm jornada continua / Viernes de 8:00 am a 4:00 pm jornada continua / Sábados de turno de 8:00 am a 12:00 m",
+        "NOTNNOTARI": "Mauricio Eduardo Garcia- Herreros Castañeda",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.047005945999956, 4.67927942700004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 13,
+        "NOTNUMNOT": 13,
+        "NOTNOMNOT": "Notaría 13",
+        "NOTDIRECCI": "Carrera 13 # 63-39 Interior 8 y 10",
+        "NOTTELEFON": "6401313 - 5521200",
+        "NOTCINSTIT": "trecebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:30 pm / Todos los Sábados de 8:00 am a 12:00 m",
+        "NOTNNOTARI": "Jaime Alberto Rodriguez Cuestas",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.063911538999946, 4.65006551700003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 14,
+        "NOTNUMNOT": 14,
+        "NOTNOMNOT": "Notaría 14",
+        "NOTDIRECCI": "Calle 53 # 21-20 - Galerias",
+        "NOTTELEFON": "2117616 - 2175570",
+        "NOTCINSTIT": "catorcebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8 am a 5 pm jornada continua y Sábados 8 am a 12 pm",
+        "NOTNNOTARI": "Jorge Luis Buelvas Hoyos",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.072356964999983, 4.64167963400007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 15,
+        "NOTNUMNOT": 15,
+        "NOTNOMNOT": "Notaría 15",
+        "NOTDIRECCI": "Calle 99 # 11B-35",
+        "NOTTELEFON": "7455515 -3208030942-6167806-6167807",
+        "NOTCINSTIT": "quincebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Jueves de 8:00 am a 12:30 pm de 01:30 pm a 06:00 pm, Viernes de 8:30 am a 12:30 pm de 01:30 pm a 05:30 pm y Sábados de turno de 09:00 am a 01:00 pm",
+        "NOTNNOTARI": "Daniel Francisco Bautista Zuluaga",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.045580048999966, 4.682492948000061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 16,
+        "NOTNUMNOT": 16,
+        "NOTNOMNOT": "Notaría 16",
+        "NOTDIRECCI": "Carrera 9 # 69A-06 Barrio Quinta Camacho",
+        "NOTTELEFON": "7425745- 6066777-3106636",
+        "NOTCINSTIT": "dieciseisbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:30 pm jornada continua, Sábados de 9:00 am a 1:00 pm",
+        "NOTNNOTARI": "Gustavo Eduardo Vergara Wiesner",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.058499419999976, 4.653340799000034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 17,
+        "NOTNUMNOT": 17,
+        "NOTNOMNOT": "Notaría 17",
+        "NOTDIRECCI": "Carrera 10 # 16-22 Sur",
+        "NOTTELEFON": "409 17 17 - 408 11 77 - 409 35 20 - 310 271 15 39",
+        "NOTCINSTIT": "diecisietebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes: 8:00 am a 01:00 pm y de 2:00 pm a 05:00 pm; todos los Sábados: 8:30 am a 12:30 pm",
+        "NOTNNOTARI": "Ana Clemencia Silva Nigrinis",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.092179929999986, 4.578466081000045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 18,
+        "NOTNUMNOT": 18,
+        "NOTNOMNOT": "Notaría 18",
+        "NOTDIRECCI": "Carrera 13 # 27 - 20 Centro Internacional Tequendama.",
+        "NOTTELEFON": "7424118",
+        "NOTCINSTIT": "dieciochobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:30 am a 5:30 pm y Sábados de 9:00 am a 12:30 pm",
+        "NOTNNOTARI": "Jose Miguel Robayo Pineros",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.090503866999939, 4.611100454000052]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 19,
+        "NOTNUMNOT": 19,
+        "NOTNOMNOT": "Notaría 19",
+        "NOTDIRECCI": "Calle 63 # 10 - 83",
+        "NOTTELEFON": "7454100 - 3102723623",
+        "NOTCINSTIT": "diecinuevebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes 8:00 am a 5:30 pm. Sábados de 9:00 a 12:30 M.",
+        "NOTNNOTARI": "Jose Miguel Rojas Cristancho",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.062427433999972, 4.649043964000043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 20,
+        "NOTNUMNOT": 20,
+        "NOTNOMNOT": "Notaría 20",
+        "NOTDIRECCI": "Calle 74 # 11-37",
+        "NOTTELEFON": "7424900 - 3187080930",
+        "NOTCINSTIT": "veintebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 12:30 y de 2:00 pm a 6:00 pm / Todos los Sábados de 9:00 am a 1:00 pm",
+        "NOTNNOTARI": "Rodolfo Galvis Blanco",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.057979390999947, 4.659190162000073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 21,
+        "NOTNUMNOT": 21,
+        "NOTNOMNOT": "Notaría 21",
+        "NOTDIRECCI": "Calle 70 A # 8-27",
+        "NOTTELEFON": "7461016 - 7461013 -7461014 - 7461016 -7461017",
+        "NOTCINSTIT": "veintiunabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm en jornada continua / Sábados de turno de 8:00 am a 12:00 m",
+        "NOTNNOTARI": "Adriana Maria Del Carmen Cuellar Arango",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.057678666999948, 4.654189446000032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 22,
+        "NOTNUMNOT": 22,
+        "NOTNOMNOT": "Notaría 22",
+        "NOTDIRECCI": "Calle 104 # 14 A-66",
+        "NOTTELEFON": "6115413 - 6115715 - 4660348- 6169629",
+        "NOTCINSTIT": "veintidosbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:30 am a 5:30 pm jornada continua / Sábados de turno de 9:00 am a 12:00 m",
+        "NOTNNOTARI": "Manuel Jose Caroprese Mendez",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.046537270999977, 4.688845793000041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23,
+        "NOTNUMNOT": 23,
+        "NOTNOMNOT": "Notaría 23",
+        "NOTDIRECCI": "Carrera 13 # 27- 50 Local 183",
+        "NOTTELEFON": "2842480 - 2866561- 2860565 - 2865360",
+        "NOTCINSTIT": "veintitresbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Jueves de 8:00 am a 1:00 pm y 2:00 pm a 6:00 pm / Viernes de 8:00 am a 1:00 pm y 2:00 pm a 5:00 pm / Sábados de turno de 8:00 am a 12 m",
+        "NOTNNOTARI": "Esther Maritza Bonivento Jhonson",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.070277503999989, 4.614207512000064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24,
+        "NOTNUMNOT": 24,
+        "NOTNOMNOT": "Notaría 24",
+        "NOTDIRECCI": "Carrera 14 # 79 - 25 Barrio el Lago",
+        "NOTTELEFON": "6443060 Ext. 131 - 143 - 311 259 9903",
+        "NOTCINSTIT": "veinticuatrobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Jueves de 8: 00 am a 6 pm y Viernes de 8:30 am a 5: 30 am Sábados de turno de 8: 00 am a 12:00m",
+        "NOTNNOTARI": "Jorge Humberto De Jesus Uribe Escobar",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.057039017999955, 4.665329366000037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25,
+        "NOTNUMNOT": 25,
+        "NOTNOMNOT": "Notaría 25",
+        "NOTDIRECCI": "Calle 93B # 15-34 Int 101 Centro Comercial Galerías 93B",
+        "NOTTELEFON": "5308822 - Fax 5309933",
+        "NOTCINSTIT": "veinticincobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:30 am a 5:30 pm / Sábados de turno de 8:00 am a 12:00 m",
+        "NOTNNOTARI": "Wilma Zafra Turbay",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.051159373999951, 4.67898413100005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26,
+        "NOTNUMNOT": 26,
+        "NOTNOMNOT": "Notaría 26",
+        "NOTDIRECCI": "Carrera 12 # 93 -26 chico norte",
+        "NOTTELEFON": "621 44 21",
+        "NOTCINSTIT": "veintiseisbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm. Sábados de turno de 9:00 am a 1:00 pm.",
+        "NOTNNOTARI": "Oscar Fernando Martinez Bustamante",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.048701365999989, 4.675435597000046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27,
+        "NOTNUMNOT": 27,
+        "NOTNOMNOT": "Notaría 27",
+        "NOTDIRECCI": "Carrera 15 # 75-24",
+        "NOTTELEFON": "2179511",
+        "NOTCINSTIT": "veintisietebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes: 8:00 am a 1:00 pm 2:00 pm a 5:50 pm /Sábados de turno: 9:00 am a 1:00 pm",
+        "NOTNNOTARI": "Manuel Castro Blanco",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.059346973999936, 4.662082519000023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28,
+        "NOTNUMNOT": 28,
+        "NOTNOMNOT": "Notaría 28",
+        "NOTDIRECCI": "Calle 71 # 10-53 Anterior Calle 70A No. 12-20",
+        "NOTTELEFON": "3103183 - 3103171 - 3103183 / 3144453980",
+        "NOTCINSTIT": "veintiochobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm todos los Sábados de 9:00 a 12:00",
+        "NOTNNOTARI": "Fernando Tellez Lombana",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.058915056999979, 4.655939835000027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29,
+        "NOTNUMNOT": 29,
+        "NOTNOMNOT": "Notaría 29",
+        "NOTDIRECCI": "Carrera 13 # 33-42 Anterior: Calle 71 No. 10-47/53",
+        "NOTTELEFON": "7462929-7462930",
+        "NOTCINSTIT": "veintinuevebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:30 am a 6:00 pm. en jornada continua / Sábados de turno de 8:00 am a 12:00 m",
+        "NOTNNOTARI": "Daniel Ricardo Palacios Rubio",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.06808912799994, 4.62073775500005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30,
+        "NOTNUMNOT": 30,
+        "NOTNOMNOT": "Notaría 30",
+        "NOTDIRECCI": "Carrera 15 # 91-06",
+        "NOTTELEFON": "6160030 - 6160089 - 6160041 - 6160078",
+        "NOTCINSTIT": "treintabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes 8:30 am a 5:30 pm , en jornada continua Sábados de turno de 8:30 am a 12:30 pm",
+        "NOTNNOTARI": "Rosa Mercedes Romero Pinto",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.052491216999954, 4.675071883000044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31,
+        "NOTNUMNOT": 31,
+        "NOTNOMNOT": "Notaría 31",
+        "NOTDIRECCI": "Calle 117 # 6A-19",
+        "NOTTELEFON": "3001427 - 2215073 - 3177991059 - 3133854015",
+        "NOTCINSTIT": "treintayunabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 1:00 pm y de 2:00 pm a 6:00 pm / Sábados de turnos de 9:00 am a 1:00 pm",
+        "NOTNNOTARI": "Miguel Antonio Zamora Avila",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.032021508999946, 4.694307934000051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 32,
+        "NOTNUMNOT": 32,
+        "NOTNOMNOT": "Notaría 32",
+        "NOTDIRECCI": "Carrera 13 # 76-34",
+        "NOTTELEFON": "3104555 - 3104560",
+        "NOTCINSTIT": "treintaydosbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes 8.30 am a 5:30 pm jornada continua / Sábado de turno de 9:00 am a 1:00 pm",
+        "NOTNNOTARI": "Abelardo De La Espriella Juris",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.05749665899998, 4.662255004000031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 33,
+        "NOTNUMNOT": 33,
+        "NOTNOMNOT": "Notaría 33",
+        "NOTDIRECCI": "Carrera 7 # 155C-30 Torre E",
+        "NOTTELEFON": "7436718",
+        "NOTCINSTIT": "treintaytresbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:30 am a 5:00 pm jornada continua / Sábados de 9:00 am a 1:00 pm",
+        "NOTNNOTARI": "Diana Beatriz Lopez Duran",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.023656695999989, 4.73131894900007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 34,
+        "NOTNUMNOT": 34,
+        "NOTNOMNOT": "Notaría 34",
+        "NOTDIRECCI": "Calle 109 # 15-55",
+        "NOTTELEFON": "744 11 12- 745 61 77- 745 61 80 Celular: 312 550 99 07 - 313 365 87 92",
+        "NOTCINSTIT": "treintaycuatrobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:30 am a 5:30 jornada continua y Sábados de 9 am - 12 pm",
+        "NOTNNOTARI": "Elsa Piedad Ramirez Castro",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.045732242999975, 4.692843882000034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 35,
+        "NOTNUMNOT": 35,
+        "NOTNOMNOT": "Notaría 35",
+        "NOTDIRECCI": "Avenida Calle 82 # 11-62",
+        "NOTTELEFON": "6220291-3106801995",
+        "NOTCINSTIT": "treintaycincobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm jornada continua / Sábado de turno de 8:00 am a 12:00 m",
+        "NOTNNOTARI": "Maria Angela Beatriz Sanin Posada",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.052732299999946, 4.667690908000054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 36,
+        "NOTNUMNOT": 36,
+        "NOTNOMNOT": "Notaría 36",
+        "NOTDIRECCI": "Carrera 7 # 12B-27 Interior 209",
+        "NOTTELEFON": "7470208 -3188481876",
+        "NOTCINSTIT": "treintayseisbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm / Sábados de 9:00 am a 12:00 pm",
+        "NOTNNOTARI": "Claret Antonio Perea Figueroa",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.074338351999984, 4.600378510000041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 37,
+        "NOTNUMNOT": 37,
+        "NOTNOMNOT": "Notaría 37",
+        "NOTDIRECCI": "Calle 67 # 7-90",
+        "NOTTELEFON": "3763737 - 3764040 - fax 3767676",
+        "NOTCINSTIT": "treintaysietebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 1:00 pm y de 2:00 pm. a 6:00 pm / Todos los Sábados de 9:00 am a 12:00 m.",
+        "NOTNNOTARI": "Alvaro Rojas Charry",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.058973529999946, 4.651495621000038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 38,
+        "NOTNUMNOT": 38,
+        "NOTNOMNOT": "Notaría 38",
+        "NOTDIRECCI": "Carrera 7 # 33 - 13",
+        "NOTTELEFON": "7421560 - 7421565",
+        "NOTCINSTIT": "treintayochobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Jueves de 8:00 am a 1:00 pm y de 2:00 PM. a 5:30 pm Viernes: de 8:00 am a 1:00 PM. y de 2:00 pm a 5:00 PM. todos los Sábados: de 8:00 am a 1:00 PM.",
+        "NOTNNOTARI": "Eduardo Duran Gomez",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.06785819199996, 4.620311024000046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 39,
+        "NOTNUMNOT": 39,
+        "NOTNOMNOT": "Notaría 39",
+        "NOTDIRECCI": "Calle 119 # 14-26",
+        "NOTTELEFON": "4842470 - 3115582511 - 3023011374 -",
+        "NOTCINSTIT": "treintaynuevebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 1:00 pm y de 2:00 pm a 6:00 pm / Todos los Sábados de 9:00 am a 12:30 pm",
+        "NOTNNOTARI": "Miguel Arturo Linero De Cambil",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.040931026999942, 4.698888165000028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 40,
+        "NOTNUMNOT": 40,
+        "NOTNOMNOT": "Notaría 40",
+        "NOTDIRECCI": "Autopista Norte # 152-46 Centro Comercial Mazurén Locales 271 al 275",
+        "NOTTELEFON": "6150574-6150579- 6150552- 6150505",
+        "NOTCINSTIT": "cuarentabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 12:30 pm y de 2:00 pm a 5:30 pm / Sábados de 8:30 am 12:30 pm",
+        "NOTNNOTARI": "Victoria Consuelo Saavedra Saavedra",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.049800238999978, 4.735605727000063]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 41,
+        "NOTNUMNOT": 41,
+        "NOTNOMNOT": "Notaría 41",
+        "NOTDIRECCI": "Carrera 15 # 75-09 El nogal.",
+        "NOTTELEFON": "2125720 - 8144141",
+        "NOTCINSTIT": "cuarentayunabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:30 am a 1:20 pm y de 2:00 pm a 6:00 pm, / Sábados de turno de 8:00 am a 12:00 m",
+        "NOTNNOTARI": "Alirio Virviescas Calvete",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.059747322999954, 4.662200712000072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 42,
+        "NOTNUMNOT": 42,
+        "NOTNOMNOT": "Notaría 42",
+        "NOTDIRECCI": "Calle 85 # 14-53",
+        "NOTTELEFON": "6111321",
+        "NOTCINSTIT": "cuarentaydosbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Jueves 8:15 am a 5:15 pm Jornada contínua / Viernes 9:00 am a 5:00 pm jornada continua / Sábado 8:30 am 12:30 pm",
+        "NOTNNOTARI": "Juan Carlos Vargas Jaramillo",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.05504296, 4.669655449000061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 43,
+        "NOTNUMNOT": 43,
+        "NOTNOMNOT": "Notaría 43",
+        "NOTDIRECCI": "Calle 109 # 19-36 Local 1",
+        "NOTTELEFON": "PBX 7432343 Fax 6372682",
+        "NOTCINSTIT": "cuarentaytresbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8 am a 5 pm. todos los Sábados de 9 am a 12 m",
+        "NOTNNOTARI": "Juan Enrique Nino Guarin",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.050947009999959, 4.695533609000051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 44,
+        "NOTNUMNOT": 44,
+        "NOTNOMNOT": "Notaría 44",
+        "NOTDIRECCI": "Carrera 15 # 96-07",
+        "NOTTELEFON": "6917948-2565535",
+        "NOTCINSTIT": "cuarentaycuatrobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 6:00 pm y todos los Sábados de 9:30 am a 12:30 m",
+        "NOTNNOTARI": "Luz Mary Cardenas Velandia",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.049686952999934, 4.681723325000064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 45,
+        "NOTNUMNOT": 45,
+        "NOTNOMNOT": "Notaría 45",
+        "NOTDIRECCI": "Avenida Suba # 125-23",
+        "NOTTELEFON": "6241771- 6241809- 6241576- 6244186",
+        "NOTCINSTIT": "cuarentaycincobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm / Sábados de turno de 8:00 am a 12:00 m",
+        "NOTNNOTARI": "Carla Patricia Ospina Ramirez",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.071997314999976, 4.709048108000047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 46,
+        "NOTNUMNOT": 46,
+        "NOTNOMNOT": "Notaría 46",
+        "NOTDIRECCI": "Calle 72 # 51 - 43",
+        "NOTTELEFON": "7032515 - 7032925 - 7032518 -7032923 -7032946",
+        "NOTCINSTIT": "cuarentayseisbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 08:00 a 5:00 y Sábados de turno de 08:30 a 12:30",
+        "NOTNNOTARI": "Helia Luz Altamar Lozano",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.074936475999948, 4.668717238000056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 47,
+        "NOTNUMNOT": 47,
+        "NOTNOMNOT": "Notaría 47",
+        "NOTDIRECCI": "Calle 101 # 45A-32",
+        "NOTTELEFON": "7430550",
+        "NOTCINSTIT": "cuarentaysietebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes: 8:00 am a 12:30 pm. 1:10 pm. a 5:30 pm, Sábado de turno: 8:00 am a 12:00 pm",
+        "NOTNNOTARI": "Ricardo Jose Cubides Terreros",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.058360266999955, 4.688030813000069]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 48,
+        "NOTNUMNOT": 48,
+        "NOTNOMNOT": "Notaría 48",
+        "NOTDIRECCI": "Avenida Caracas # 75 - 77/69",
+        "NOTTELEFON": "3457558 Celular: 3124696630",
+        "NOTCINSTIT": "cuarentayochobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Jueves de 07:45 am a 12: 45 pm. y de 01:30 pm. a 05:30 pm. Viernes de 08:30 am a 12:30 pm. y de 01:30 pm. a 05:30 pm. Sábados de turno de 08:00 am a 12:00 m.",
+        "NOTNNOTARI": "Miguel Angel Diaz Tellez",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.061440397999945, 4.663873815000045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 49,
+        "NOTNUMNOT": 49,
+        "NOTNOMNOT": "Notaría 49",
+        "NOTDIRECCI": "Av. Calle 13 # 42 A - 79",
+        "NOTTELEFON": "3350035 - 3114539564",
+        "NOTCINSTIT": "cuarentaynuevebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes 8:00 am a 5:00 pm jornada continua todos los Sábados de 9:00 am a 12:00 m",
+        "NOTNNOTARI": "Jesus German Rusinque Forero",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.101621591999958, 4.622437296000044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 50,
+        "NOTNUMNOT": 50,
+        "NOTNOMNOT": "Notaría 50",
+        "NOTDIRECCI": "Calle 18 # 28A-51",
+        "NOTTELEFON": "7447099",
+        "NOTCINSTIT": "cincuentabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Miércoles de 8:00 am a 1:00 pm y de 2:00 pm a 6:00 pm / Jueves y Viernes de 8:00 am a 1:00 pm y de 2:00 pm a 5:30 pm / Sábados de turno de 9:00 am a 12:30 pm",
+        "NOTNNOTARI": "Gabriel Uribe Roldan\r\n",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.089242513999977, 4.61604145900003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 51,
+        "NOTNUMNOT": 51,
+        "NOTNOMNOT": "Notaría 51",
+        "NOTDIRECCI": "Avenida Calle 80 # 70F-55",
+        "NOTTELEFON": "2240880",
+        "NOTCINSTIT": "cincuentayunobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 1:00 pm y de 2:00 pm. a 5:00 pm / Todos los Sábados de 9:00 am a 1:00 pm",
+        "NOTNNOTARI": "Ruben Dario Acosta Gonzalez",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.087454116999936, 4.693762173000039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 52,
+        "NOTNUMNOT": 52,
+        "NOTNOMNOT": "Notaría 52",
+        "NOTDIRECCI": "Transv. 55 # 98A- 66, Centro Comercial Iserra 100, Lobby Principal",
+        "NOTTELEFON": "7435552 Celular 318 7503555 - 3194378499",
+        "NOTCINSTIT": "cincuentaydosbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lun - Viernes 8:30 am - 1: 00 pm 2:00 pm a 5:30 pm Sábados 9:00 am -1: 00 pm",
+        "NOTNNOTARI": "Eugenio Tercero Gil Gil",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.06448162199996, 4.687766495000062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 53,
+        "NOTNUMNOT": 53,
+        "NOTNOMNOT": "Notaría 53",
+        "NOTDIRECCI": "Avenida Primero de Mayo # 69-91",
+        "NOTTELEFON": "6950960-6050955",
+        "NOTCINSTIT": "cincuentaytresbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm jornada continua / Sábados 9:00 am a 1:00 pm",
+        "NOTNNOTARI": "Juan Fernando Tolosa Suarez",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.135202460999949, 4.613421126000048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 54,
+        "NOTNUMNOT": 54,
+        "NOTNOMNOT": "Notaría 54",
+        "NOTDIRECCI": "Carrera 10 # 15-04 Sur Barrio Sociego",
+        "NOTTELEFON": "4082200 - 4082874",
+        "NOTCINSTIT": "cincuentaycuatrobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 7:30 am a 12:00 m y de 1:00 pm a 5:00 pm / Sábados de 8:00 am a 12:00 m",
+        "NOTNNOTARI": "Alvaro Enrique Marquez Cardenas",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.091769786999976, 4.579049319000035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 55,
+        "NOTNUMNOT": 55,
+        "NOTNOMNOT": "Notaría 55",
+        "NOTDIRECCI": "Calle 20 C # 97 B # 26 Barrio Fontibón.",
+        "NOTTELEFON": "7043755 Celular: 3163861738",
+        "NOTCINSTIT": "cincuentaycincobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes: de 8:00 am a 5:00 pm en jornada continua todos los SábadosS: de 8:00 am a 12:00 m",
+        "NOTNNOTARI": "Alejandro Hernandez Munoz",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.140771890999986, 4.674971864000042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 56,
+        "NOTNUMNOT": 56,
+        "NOTNOMNOT": "Notaría 56",
+        "NOTDIRECCI": "Carrera 73 59-12 SUR Centro Comercial Metro Sur Local 221-222-218",
+        "NOTTELEFON": "7433410 -7433417 Fax 7429228",
+        "NOTCINSTIT": "cincuentayseisbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes 8:00 am hasta 5:00 pm jornada continua, todos los Sábados de 8:30 am hasta 12:30 pm",
+        "NOTNNOTARI": "Berni Francisco Escalona Castilla",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.168250461999946, 4.594621739000047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 57,
+        "NOTNUMNOT": 57,
+        "NOTNOMNOT": "Notaría 57",
+        "NOTDIRECCI": "AV Calle 45A Sur # 50-57 B/Venecia",
+        "NOTTELEFON": "7416233 - 7416237 - 7416238",
+        "NOTCINSTIT": "cincuentaysietebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm jornada continua / Sábados de 8:30 am a 12:30 pm",
+        "NOTNNOTARI": "Nibardo Agustin Fuertes Morales",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.137104775999944, 4.594484608000073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 58,
+        "NOTNUMNOT": 58,
+        "NOTNOMNOT": "Notaría 58",
+        "NOTDIRECCI": "Carrera 54 # 45 A - 19 Sur de Bogota D.C.",
+        "NOTTELEFON": "4745999 - 4743777",
+        "NOTCINSTIT": "cincuentayochobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm. en jornada continua. Sábados de 8:00 am a 12:00 m.",
+        "NOTNNOTARI": "Luis Fernando Quintero Facundo",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.141327761999946, 4.595032552000021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 59,
+        "NOTNUMNOT": 59,
+        "NOTNOMNOT": "Notaría 59",
+        "NOTDIRECCI": "Calle 146 C Bis # 90-11 Parque Fundacional de Suba",
+        "NOTTELEFON": "6810024 - 6800878 - 6839101 - 3184151490",
+        "NOTCINSTIT": "cincuentaynuevebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 a 12:00 m y de 1:30 a 5:30 / Todos los Sábados de 9:00 am a 1:00 pm",
+        "NOTNNOTARI": "Olga Maria Valero Moreno",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.08366988299997, 4.740513317000023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 60,
+        "NOTNUMNOT": 60,
+        "NOTNOMNOT": "Notaría 60",
+        "NOTDIRECCI": "Calle 161 #16A -32",
+        "NOTTELEFON": "6710725 -6785366 -6745478",
+        "NOTCINSTIT": "sesentabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes 8:00 am a 12:30 pm y 1:30 pm a 5:00 pm Sábados 9:00 am a 1:00 pm",
+        "NOTNNOTARI": "Henry Cadena Franco",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.039223511999978, 4.740116097000055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 61,
+        "NOTNUMNOT": 61,
+        "NOTNOMNOT": "Notaría 61",
+        "NOTDIRECCI": "Calle 13 # 60-66 Puente Aranda",
+        "NOTTELEFON": "4325121",
+        "NOTCINSTIT": "sesentayunabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:15 am 5:10 pm jornada continua / Sábados de turno de 9:00 am 1:00 pm",
+        "NOTNNOTARI": "Pablo Mendez Barajas",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.112610297999936, 4.633324240000036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 62,
+        "NOTNUMNOT": 62,
+        "NOTNOMNOT": "Notaría 62",
+        "NOTDIRECCI": "Carrera 24 # 53-26 frente al parqueadero del C.C. Galerías",
+        "NOTTELEFON": "2489296 - 6958808 - 7042816 - 2975118 -3208183419",
+        "NOTCINSTIT": "sesentaydosbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm / Sábados de 8:00 am a 12:00 m",
+        "NOTNNOTARI": "Carlos Arturo Serrato Galeano",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.073710191999965, 4.642170778000036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 63,
+        "NOTNUMNOT": 63,
+        "NOTNOMNOT": "Notaría 63",
+        "NOTDIRECCI": "Av. Carrera 58 (Av. Villas) # 128-60",
+        "NOTTELEFON": "8054127, 3654274 y 3173659348",
+        "NOTCINSTIT": "sesentaytresbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes: 8:00 am a 12:30 pm. y de 2:00 pm. a 5:30 pm. Sábados de 8:30 am a 12:30 pm.",
+        "NOTNNOTARI": "Enrique Jose Nates Guerra",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.069987132999984, 4.714523496000027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 64,
+        "NOTNUMNOT": 64,
+        "NOTNOMNOT": "Notaría 64",
+        "NOTDIRECCI": "Calle 25 G # 73 A - 51. Barrio Modelia.",
+        "NOTTELEFON": "2634320, 2634272, 2634338.",
+        "NOTCINSTIT": "sesentaycuatrobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm jornada continua. y todos los Sábados de 8:00 am a 12:00 m.",
+        "NOTNNOTARI": "Cerveleon Rodriguez Herrera",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.113281210999958, 4.666572020000046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 65,
+        "NOTNUMNOT": 65,
+        "NOTNOMNOT": "Notaría 65",
+        "NOTDIRECCI": "Carrera 6 # 67-18 Chapinero alto",
+        "NOTTELEFON": "2102323 - 3470703 - 3103918 - 3103912",
+        "NOTCINSTIT": "sesentaycincobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 1:00 pm y de 2:00 pm a 6:00 pm / Sábado de turno de 8:30 am a las 12:30 pm",
+        "NOTNNOTARI": "Antonio Augusto Conti Parra",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.057279560999973, 4.650319044000071]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 66,
+        "NOTNUMNOT": 66,
+        "NOTNOMNOT": "Notaría 66",
+        "NOTDIRECCI": "Avenida Caracas # 46-20 Sur",
+        "NOTTELEFON": "4752611",
+        "NOTCINSTIT": "sesentayseisbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm, jornada continua, Sábados de 8:00 am a 12:00 m jornada continua",
+        "NOTNNOTARI": "Ruby Astrid Duarte Robayo",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.124948848999964, 4.569714903000033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 67,
+        "NOTNUMNOT": 67,
+        "NOTNOMNOT": "Notaría 67",
+        "NOTDIRECCI": "Avenida Calle 72 # 81 A -64",
+        "NOTTELEFON": "2517370",
+        "NOTCINSTIT": "sesentaysietebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 1:00 pm. y de 2:00 pm. a 5:00 pm. Sábados de 8:30 am a 12:30 pm. (se trabaja todos los Sábados)",
+        "NOTNNOTARI": "Eduardo Luis Pacheco Juvinao",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.103291306999949, 4.694083379000062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 68,
+        "NOTNUMNOT": 68,
+        "NOTNOMNOT": "Notaría 68",
+        "NOTDIRECCI": "Calle 37 Sur # 78H-33 Kennedy - Central",
+        "NOTTELEFON": "2650922 - 2650933 - 2650944",
+        "NOTCINSTIT": "sesentayochobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8am a 5:30 pm jornada continua todos los Sábados de 8am a 12m",
+        "NOTNNOTARI": "Jorge Hernando Rico Grillo",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.152682702999982, 4.623205489000043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 69,
+        "NOTNUMNOT": 69,
+        "NOTNOMNOT": "Notaría 69",
+        "NOTDIRECCI": "Calle 134 # 7B-83 Local 1 Edificio el Bosque",
+        "NOTTELEFON": "6266069 - 2746869 -  3144113569 - 3144353558 - Whatsapp 3006176964",
+        "NOTCINSTIT": "sesentaynuevebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm jornada continua / Sábados de 9:00 am a 1:00 pm",
+        "NOTNNOTARI": "Maria Ines Pantoja Ponce",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.03208028499995, 4.711861741000064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 70,
+        "NOTNUMNOT": 70,
+        "NOTNOMNOT": "Notaría 70",
+        "NOTDIRECCI": "Calle 72 B # 71D-30 y/o Avenida boyaca No. 72 b - 02",
+        "NOTTELEFON": "4824045 - 3143333333",
+        "NOTCINSTIT": "setentabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 12:30 pm y de 1:30 pm a 5.30 PM, todos los Sábados de 8:30 am a 12:00 m",
+        "NOTNNOTARI": "Natalia Perry Turbay",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.094131435999941, 4.687860149000073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 71,
+        "NOTNUMNOT": 71,
+        "NOTNOMNOT": "Notaría 71",
+        "NOTDIRECCI": "Calle 61 A # 16 - 10",
+        "NOTTELEFON": "PBX: 2358811 TEL: 2123754",
+        "NOTCINSTIT": "setentayunobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes: 8:30 am a 5:30 pm jornada continua Sábados de turno: 9:00 am a 1:00 PM",
+        "NOTNNOTARI": "Janeth Patricia Rodriguez Ayala",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.066994842999975, 4.649277289000054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 72,
+        "NOTNUMNOT": 72,
+        "NOTNOMNOT": "Notaría 72",
+        "NOTDIRECCI": "Carrera 11 # 71-73 Piso 2",
+        "NOTTELEFON": "6062929 - 6064947 - 6064948",
+        "NOTCINSTIT": "setentaydosbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:45 pm. y todos los Sábados de 9:00 am a 1:00 pm.",
+        "NOTNNOTARI": "Patricia Tellez Lombana",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.059121504999951, 4.656949842000074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 73,
+        "NOTNUMNOT": 73,
+        "NOTNOMNOT": "Notaría 73",
+        "NOTDIRECCI": "Avenida El Dorado # 69C-03 Hotel Sheraton Local 103",
+        "NOTTELEFON": "2105146",
+        "NOTCINSTIT": "setentaytresbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:30 am a 1:30 pm y de 2:30 pm a 6:00 pm Jornada continua / Sábado 9:00 am a 1:30 pm",
+        "NOTNNOTARI": "Victoria Bernal Trujillo",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.108651571999985, 4.65999032000002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 74,
+        "NOTNUMNOT": 74,
+        "NOTNOMNOT": "Notaría 74",
+        "NOTDIRECCI": "Carrera 80i # 61 - 15 Sur. Parque Principal Bosa",
+        "NOTTELEFON": "7754201 - 7776405",
+        "NOTCINSTIT": "setentaycuatrobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 1:00 y de 1:45 a 5:30 pm todos los Sábados 8:00 am a 1:15 pm.",
+        "NOTNNOTARI": "Leonardo Augusto Torres Calderon",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.18496644399994, 4.610468636000064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 75,
+        "NOTNUMNOT": 75,
+        "NOTNOMNOT": "Notaría 75",
+        "NOTDIRECCI": "Avenida Suba # 106-52",
+        "NOTTELEFON": "5334397 - 5335913 - 3208565019",
+        "NOTCINSTIT": "setentaycincobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes 7:30 am a 12:00 m y de 1:00 pm a 5:00 pm / Todos los Sábados de 8:30 am a 12:00 m",
+        "NOTNNOTARI": "Ramon Alberto Lozada De La Cruz",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.067050861999974, 4.693819518000055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 76,
+        "NOTNUMNOT": 76,
+        "NOTNOMNOT": "Notaría 76",
+        "NOTDIRECCI": "Avenida Boyaca # 51-21",
+        "NOTTELEFON": "712 69 58 - 7126959 - 7126968 - 3134224221",
+        "NOTCINSTIT": "setentayseisbogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 08:30 am a 05:30 pm y Sábados de 09:00 am a 01:00 pm",
+        "NOTNNOTARI": "Jose Francisco Varona Ortiz",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.108690955999975, 4.669843077000053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 77,
+        "NOTNUMNOT": 77,
+        "NOTNOMNOT": "Notaría 77",
+        "NOTDIRECCI": "Calle 122 # 15-21 Local 201",
+        "NOTTELEFON": "6203300-6203346",
+        "NOTCINSTIT": "setentaysietebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:10 a 1:00 y de 2:00 a 6:00 y Sábados de turno",
+        "NOTNNOTARI": "Gloria Cecilia Estrada Piedrahita De Turbay",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.043526058999987, 4.700343420000024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 78,
+        "NOTNUMNOT": 78,
+        "NOTNOMNOT": "Notaría 78",
+        "NOTDIRECCI": "Carrera 1 # 65C-58 Sur Locales 146 y 147 Centro Comercial Bella Vista",
+        "NOTTELEFON": "9371234 - 3104195242 - 3112125916",
+        "NOTCINSTIT": "setentayochobogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Lunes a Viernes de 8:00 am a 5:00 pm jornada continua / Sábados de 9:00 am a 12:00 m",
+        "NOTNNOTARI": "Hector Guillermo Laverde Castillo",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.118259972999965, 4.531987769000068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 79,
+        "NOTNUMNOT": 79,
+        "NOTNOMNOT": "Notaría 79",
+        "NOTDIRECCI": "AC 26 # 103-09 Aeropuerto El Dorado",
+        "NOTTELEFON": "3114805453",
+        "NOTCINSTIT": "setentaynuevebogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Horarios alternados de 12 horas los 7 días de la semana con la Notaría Ochenta de Bogotá para la prestación de 24 horas diarias, contados de 6:00 am a 6:00 pm para una notaría y de 6:00 pm a 6:00 am del día siguiente para la otra con cambios semana",
+        "NOTNNOTARI": "Luis Bernardo Franco Ramirez",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.144130257999961, 4.699083383000072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 80,
+        "NOTNUMNOT": 80,
+        "NOTNOMNOT": "Notaría 80",
+        "NOTDIRECCI": "AC 26 # 103-09 Aeropuerto El Dorado",
+        "NOTTELEFON": "3114805453",
+        "NOTCINSTIT": "ochentabogota@supernotariado.gov.co",
+        "NOTHAPUBLI": "Horarios alternados de 12 horas los 7 días de la semana con la Notaría Ochenta de Bogotá para la prestación de 24 horas diarias, contados de 6:00 am a 6:00 pm para una notaría y de 6:00 pm a 6:00 am del día siguiente para la otra con cambios semana",
+        "NOTNNOTARI": "Carlos Abed Toro Ortiz",
+        "NOTCATEGOR": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.144130257999961, 4.699083383000072]
+      }
+    }
+  ]
+}

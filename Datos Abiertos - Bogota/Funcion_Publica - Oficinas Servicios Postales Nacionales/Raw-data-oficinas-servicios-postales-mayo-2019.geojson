@@ -1,0 +1,1542 @@
+{
+  "type": "FeatureCollection",
+  "name": "Oficinas",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "link": "https://datosabiertos.bogota.gov.co/dataset/oficinas-de-servicios-postales-nacionales-bogota-d-c",
+  "description": "Locales comerciales del Servicio Postal Nacional, donde se desarrollan actividades de admisión, distribución y/o entrega de envíos postales y correspondencia.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   8:00 am a 6:00pm   sabados   8:00 am  a 6:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "SILVIA MILENE SINTURA PORRAS - PAPELERIA Y MISCELANEA TM COMUNICACIONES",
+        "DIRECCION": "CL 7ABISC 80A 61 VILLA CASTILLA",
+        "TELEFONO_P": "7029508",
+        "CODIGOPOST": "110821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.147804448084571, 4.639443461071777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   9:30 am a 8:0pm S   9:30 am a 7:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "VIACOSTEL.COM",
+        "DIRECCION": "KR 75 23F 07",
+        "TELEFONO_P": "5472030",
+        "CODIGOPOST": "110931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.120692348680478, 4.66540199706192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   10:00 am  a 5:00pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "TOP TOURS S.A.S.",
+        "DIRECCION": "KR 14 79 02",
+        "TELEFONO_P": "7024766",
+        "CODIGOPOST": "110221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.056919750104882, 4.664988105053877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   9:00 am a 5:30pm S   9:00 a.m a 12:00 p.m",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "EFREN DARIO LÃ“PEZ CUERVO - DARLOP COMUNICACIONES",
+        "DIRECCION": "CL 166 21 04",
+        "TELEFONO_P": "6771916",
+        "CODIGOPOST": "110131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.044572836817693, 4.746791734134513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 5,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   8:00am a 6:00pm S   8:00 am a 2:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "MARTHA LUCIA CASTAÃ‘EDA AVELLANEDA - PAPELERIA EL CESAR",
+        "DIRECCION": "AV 7 121 21",
+        "TELEFONO_P": "6200228",
+        "CODIGOPOST": "110111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.030693837830256, 4.698054383766191]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   6:00 am-7:00pm S   7:00 am a 6:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "JOSÃ‰ ALEXANDER SAAVEDRA ARIAS - DISTINTAS",
+        "DIRECCION": "KR 13 66 93",
+        "TELEFONO_P": "8052789",
+        "CODIGOPOST": "110231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0629442054381, 4.653545770329191]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V: 8:00am a 1:00pm y 2:00pm a 5:00pm S 9:00AM A 12:00",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "FIRST ROUTE LTDA",
+        "DIRECCION": "KR 103A 77B 11",
+        "TELEFONO_P": "2284002",
+        "CODIGOPOST": "111041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.115789975375407, 4.710681810830564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   9:00 am a 6:30 pm  S   9:00 am a 1:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "DIEGO FERNANDO CUCAITA BUITRAGO",
+        "DIRECCION": "KR 24B 13 63 SUR",
+        "TELEFONO_P": "5617277",
+        "CODIGOPOST": "111511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.101263567749243, 4.588929632300676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 9,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   8:00 am a 6: 00 pm jornada continua  S   8:00 am a 1:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "ROBERTO ALFONSO PEÃ‘A PIÃ‘EROS",
+        "DIRECCION": "AV 30 2 72",
+        "TELEFONO_P": "3919437",
+        "CODIGOPOST": "111411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.100900655560977, 4.602736390364585]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 10,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  : 7:00 am 7:00 pm S   9:00 am a 1:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "IMPRESOS Y SUMINISTROS ZEUSCOPIAS E.U.",
+        "DIRECCION": "AV CL 28 19 99",
+        "TELEFONO_P": "3380608",
+        "CODIGOPOST": "111311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.074985033961894, 4.620053692119976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   6:30 am a 8:30 pm S   8:00 am a 7:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "DANIEL ALEJANDRO LINARES SUAREZ",
+        "DIRECCION": "CL 9 73B 32",
+        "TELEFONO_P": "4004730",
+        "CODIGOPOST": "110821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.138966259974026, 4.641054350562883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 12,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   8:00 am a 8:00 pm   S   9:00 am  a 8:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "WILLIAM ROMERO CUBILLOS",
+        "DIRECCION": "CL 65 SUR 80 35",
+        "TELEFONO_P": "4881620",
+        "CODIGOPOST": "110741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.184678743598752, 4.607051706790122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 13,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   10:00 am a 6:00 pm  S   9:30 am a 11:30 am",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "JOSE EDUARDO BELTRAN CASTILLO",
+        "DIRECCION": "CL 13 19 71 LOCAL 372C C SABANA PLAZA ENTRADA 14",
+        "TELEFONO_P": "2014299",
+        "CODIGOPOST": "111411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.084909611339384, 4.608395515125065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 14,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   09:00 am a 05:00 pm  S   9:00 am  a 12:00 m",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "IVAN DARIO DUQUE ALVAREZ",
+        "DIRECCION": "CL 11 17 35 LOCAL 106",
+        "TELEFONO_P": "3426487",
+        "CODIGOPOST": "111411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.084251634919639, 4.604100119126087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 15,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   9.00 am a 7:00pm S   10:00 am a 5:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "LAS PLEYADES PAPELERIA Y MISCELANEA",
+        "DIRECCION": "KR 77A 65A 76",
+        "TELEFONO_P": "8027489",
+        "CODIGOPOST": "111071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.104832345302654, 4.684517503627659]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 16,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   8:00 am a 7:30 pm   S   10.00 am a 3:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "ADRIANA MARIA BADILLO MORENO- INTERNACIONAL COMUNICATIONS SERVICES",
+        "DIRECCION": "KR 44A 22B 24 LOCAL 1 5 PAREDES CORFERIAS",
+        "TELEFONO_P": "2443229",
+        "CODIGOPOST": "111321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.094911972040691, 4.633312209781409]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 17,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. VEINTE DE JULIO",
+        "DIRECCION": "CL 25 SUR 6 38",
+        "TELEFONO_P": "(1)2095658",
+        "CODIGOPOST": "110421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.094035823584534, 4.57056302263388]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 18,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 8:00 a.m. a 12 p.m. y de 1 p.m. a 5 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. 7 DE AGOSTO",
+        "DIRECCION": "KR 24 66A 30",
+        "TELEFONO_P": "(1)2556768",
+        "CODIGOPOST": "111221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.069997537198816, 4.657842335341136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 19,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. CALLE 104",
+        "DIRECCION": "KR 15 104 21Â ",
+        "TELEFONO_P": "(1)2137920",
+        "CODIGOPOST": "110111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.046957445282089, 4.689163914144019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 20,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V: 8:00am â€“ 6:00pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "LUZ DARY SAMBONI BUESAQUILLO",
+        "DIRECCION": "CL 71 17 74",
+        "TELEFONO_P": "5413250",
+        "CODIGOPOST": "111221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.064661203051344, 4.659512538859177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 21,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. CALLE 90",
+        "DIRECCION": "CL 90 14 53",
+        "TELEFONO_P": "(1)6917292",
+        "CODIGOPOST": "110221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.052858101989372, 4.674236879604579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 45,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 8:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. SALAZAR GOMEZ",
+        "DIRECCION": "AV 68 12 76",
+        "TELEFONO_P": "(1)2907748",
+        "CODIGOPOST": "111611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.119290100979853, 4.635953857791505]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 46,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   9.00 am a 6:00 pm  S   9:00 am a 6:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "LUZ MERY ROJAS FLOREZ",
+        "DIRECCION": "AV JIMENEZ 4 76",
+        "TELEFONO_P": "5606141",
+        "CODIGOPOST": "110321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.071468895887506, 4.600774463574606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 47,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   08:30 am a 8:30pm   sabados   9:00 am a 7:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "CRISTIAN MAURICIO GRACIA VARGAS - USANET",
+        "DIRECCION": "KR 24 53 78",
+        "TELEFONO_P": "3009152",
+        "CODIGOPOST": "111311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.07371773028494, 4.642703879555415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 48,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V   8.00 am a 2:00pm y   4:00am a 9:00 pm    sabados 10.00AM  .9.00PM",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "DIEGO YECID CASTRO MORA - MULTISERVICIOS J & D",
+        "DIRECCION": "CL 90 86 05",
+        "TELEFONO_P": "5358545",
+        "CODIGOPOST": "111021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.094746773656581, 4.710083289355527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 49,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V 8:00 a 6:00 pm Jornada Continua S 8:00AM - 12:00",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "DISTRIBUCIONES JC COLOMBIA S.A.S",
+        "DIRECCION": "AV CL 24 95 12",
+        "TELEFONO_P": "7497964",
+        "CODIGOPOST": "110911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.128456246932629, 4.676414477694099]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 50,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 8:00 am a  5:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "CORREO MAYOR CORREO MENOR POSTRED S.A.S.",
+        "DIRECCION": "KR 24 82 27",
+        "TELEFONO_P": "4824380",
+        "CODIGOPOST": "111211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.06340688182685, 4.670587194261367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 51,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 8:00 am-5:30pm  S 10:00 a 1:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "MIS ENVIOS EXPRESS S.A.S.",
+        "DIRECCION": "KR 69 25B 44 LOCAL 102 A",
+        "TELEFONO_P": "5718207",
+        "CODIGOPOST": "110931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.107203194271861, 4.657430498183179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 52,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 9:00 am a 8:00 pm   Horario sabados De 9.00 am a 7:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "ANDREA RICAURTE YARA- PRINFOT COMERCIALIZADORA",
+        "DIRECCION": "KR 57 68 02",
+        "TELEFONO_P": "4674286",
+        "CODIGOPOST": "111221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.079572169569175, 4.668493713595145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 53,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 9:00 am a 8:00 pm  Horario sabados De 8:00 am a 8:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "SONIA JEANNETTE  TORRES GUTIERREZ",
+        "DIRECCION": "CL 166BIS 54C 91",
+        "TELEFONO_P": "3214744065",
+        "CODIGOPOST": "111156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.056460537619841, 4.748827619898583]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 54,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 8.00 am a 5:00 pm   Horario sabados De 10:00am a 5:00pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "NANCY ESTELA AVILA UÃ‘ATE",
+        "DIRECCION": "CL 51 SUR 78N 10",
+        "TELEFONO_P": "2939566",
+        "CODIGOPOST": "110861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.169625477651735, 4.614348820048256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 55,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 10:00 am a 5:00 pm  Horario sabados De 11:00 am a 1:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "MARIA DEL PILAR FARFAN",
+        "DIRECCION": "KR 58 127 59CC BULEVAR NIZA LOCAL220",
+        "TELEFONO_P": "5176023",
+        "CODIGOPOST": "111111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.070665628648669, 4.711715162031068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 56,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De: 6.30 am a 8:00 pm  Horario sabados De: 9:00 am a 7:00 pm domingos y festivos",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "LILIANA RINCON NAUSA",
+        "DIRECCION": "CL 137 46 59",
+        "TELEFONO_P": "5206723",
+        "CODIGOPOST": "111111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.053482515553469, 4.722779403868784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 57,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 8:00 am a 1:00 pm y 2:30 pm a 7:30 pm    Horario sabados De 09.00 a 1:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "JUAN DIEGO JARAMILLO MARTINEZ",
+        "DIRECCION": "KR 54A 167 72",
+        "TELEFONO_P": "4560240",
+        "CODIGOPOST": "111156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.053862599936707, 4.749673432352664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 58,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 8:00 am a 6:00 pm   Horario sabados De 8:00 am a 12:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "ENERGIA Y PROYECTOS LTDA",
+        "DIRECCION": "KR 20 33A 80",
+        "TELEFONO_P": "N/A",
+        "CODIGOPOST": "111311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.074395669965241, 4.623588144317823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 59,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 9:00 am a 7:00 pm  Horario sabados De 9:00 am a  5:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "LUZ DAMARY GIRALDO SALAZAR",
+        "DIRECCION": "KR 10 10 78",
+        "TELEFONO_P": "2829007",
+        "CODIGOPOST": "111711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.078070851167425, 4.599677772913128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 60,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De:7:30 a 5:00 pm   Horario sabados De 8:00 am a 1::00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "JAIME PINZON MOLANO- ONIX",
+        "DIRECCION": "KR 69B 34 00 P1 SUR BRR CARVAJAL",
+        "TELEFONO_P": "0",
+        "CODIGOPOST": "110841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.131500146052048, 4.606887334942892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 61,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 7:30 am a 7:30pm   Horario sabados De 8:00 am a 1:30 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "ROSALBA ARAQUE- S&S SUMINISTROS Y SERVICIOS",
+        "DIRECCION": "AK 24 42 59",
+        "TELEFONO_P": "7559316",
+        "CODIGOPOST": "111311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.075442057252602, 4.632965590321256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 62,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 9:00 am a 7:00pm   Horario sabados De 9:00 am a 1:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "ENCOMIENDAS UNIDAS LTDA RIONEGRO",
+        "DIRECCION": "KR 60 99 05 LOCAL 05",
+        "TELEFONO_P": "2404736",
+        "CODIGOPOST": "111211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.065450928187289, 4.688150520877841]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 63,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 8:30 am a 6:00 pm    Horario sabados De 9:00am a 1:00pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "ENCOMIENDAS UNIDAS LTDA- ESTANZUELA",
+        "DIRECCION": "KR 17 08 18",
+        "TELEFONO_P": "0",
+        "CODIGOPOST": "111411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.085611418358482, 4.601167922974033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 64,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De :7:00 am a 7:00 pm   Horario sabados De:7:00 am a 7:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "WILSON MATIAS CASTAÃ‘EDA- COMUNICACIONES APRISA NATALIA",
+        "DIRECCION": "AV 1MAYO 40B 39 SUR FREN ALTILLO HOSPITAL DE KENNEDY",
+        "TELEFONO_P": "4534269",
+        "CODIGOPOST": "111611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.095574332239011, 4.629509514069347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 65,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 8:00 am a 6:00 pm   Horario sabados De 9:00 am a 1:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "ENCOMIENDAS UNIDAS LTDA -07 DE AGOSTO",
+        "DIRECCION": "KR 27A 65 37",
+        "TELEFONO_P": "0",
+        "CODIGOPOST": "111221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.07331411543116, 4.658395507400612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 66,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "Horario lunes a sabados  De 9:00 am a 9:00 pm  Horario sabados N/A",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "MARIANA ALEJANDRA BELLO AGUIRRE",
+        "DIRECCION": "CL 145 47 33 LOCAL 1",
+        "TELEFONO_P": "5224212",
+        "CODIGOPOST": "111156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.052577427870432, 4.72789253409719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 67,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 6:30 am a 9:00 pm   Horario sabados De 8:00 am a 9:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "AURA MERCEDES RODRIGUEZ VALENTINA",
+        "DIRECCION": "KR 19A 161 23",
+        "TELEFONO_P": "4571977",
+        "CODIGOPOST": "110131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.043385148129389, 4.741167601188396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 68,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 8:00 am a 6:00 pm   Horario sabados De 9:00 am a 2:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "GUILLERMO LEON VANEGAS SOTO",
+        "DIRECCION": "CL 44D SUR 72 39 BRR SEVILLANA",
+        "TELEFONO_P": "3112673177",
+        "CODIGOPOST": "110841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.145703311092902, 4.597147772061771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 69,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 10:00 am a 9:00 pm   Horario sabados De 12:00 am a 9:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "NINA PAOLA GUARIN SALAS- LOGISTICA Y ENVIOS ARCE",
+        "DIRECCION": "DG 39 SUR 72D 34 BRR ARGELIA",
+        "TELEFONO_P": "7280600",
+        "CODIGOPOST": "110841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.142283642198549, 4.607978188943965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 70,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De 9:00 am a 7:00 pm    Horario sabados De :00 am a 5:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "ESPERANZA HERNANDEZ GAITAN",
+        "DIRECCION": "CL 106 8A 20",
+        "TELEFONO_P": "6757190-3162696010",
+        "CODIGOPOST": "110111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.039831208947845, 4.687353622180494]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 71,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V: 8:30am â€“ 5:30pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "SISO ASESORES Y CONSULTORES SAS",
+        "DIRECCION": "CL 72 82 18 BARRIO SANTA ELENITA",
+        "TELEFONO_P": "7614824",
+        "CODIGOPOST": "111051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.103553214406659, 4.694183780748793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 72,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De: 8:00 am a 8.00 pm   Horario sabados De 10:00 am a 6:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "CARLOS ARTURO MORENO SANCHEZ",
+        "DIRECCION": "CL 140 91 19 LOCAL 3 108",
+        "TELEFONO_P": "6869160",
+        "CODIGOPOST": "111121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.083913976170649, 4.736342983882176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 73,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De: 8:00 am a 6:00 pm   Horario sabados De:09:00 am a 1:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "ALVARO ALONSO FRANCO GUERRERO- ESTACION PUNTO 57",
+        "DIRECCION": "KR 8 56 92 BAR CHAPINERO",
+        "TELEFONO_P": "4327247",
+        "CODIGOPOST": "110231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.062651310638017, 4.643207855024625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 74,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De: 8:00 am a 5.00 pm JORNADA CONTINUA  Horario sabados De:9:00 am a 1:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "ARMANDO MEDINA ANGEL",
+        "DIRECCION": "KR 13 13 45CC SAN FELIPE LOCAL 7 8",
+        "TELEFONO_P": "2430206",
+        "CODIGOPOST": "110321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.078761752638982, 4.60353375719183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 75,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De: 9:00 am a 6:00 pm   Horario sabados  De: 8:00 am a 1:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "OSCAR AUGUSTO MARTINEZ JIMENEZ",
+        "DIRECCION": "KR 38 10 90 LOCAL 1093",
+        "TELEFONO_P": "2377715",
+        "CODIGOPOST": "111611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.10149367210758, 4.617095496710992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 76,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  De: 9:00 am a 6:00 pm   Horario sabados De 9:00 an a 2:00 pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "DIANA ANGELICA PUENTES CRUZ",
+        "DIRECCION": "CL 156 7 11",
+        "TELEFONO_P": "7124499",
+        "CODIGOPOST": "110131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.024194506986717, 4.731578998007852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 77,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V: 8.00am â€“ 5:00pm y S: 8am â€“ 12m",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "ALFREDO MANUEL RAMÃ“N JÃCOME",
+        "DIRECCION": "CL 74A 62 73 LOCAL 2",
+        "TELEFONO_P": "6304985",
+        "CODIGOPOST": "111211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0805236237956, 4.675714979759151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 78,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 8:00 a.m. a 7:00 p.m s DE: 9:00 a.m. a 6:00 p.m",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "DIANA MARIA GUTIERREZ RUBIANO-COMERCIALIZADORA NUEVA CLASE",
+        "DIRECCION": "CL 150 19 56",
+        "TELEFONO_P": "7498924",
+        "CODIGOPOST": "110131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.045535390627762, 4.73172749823136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 79,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De:  7:00 a.m. a 8:00 p.m s De 7: 00 a.m. a 7: 00 p.m. Y Domingos 7: 00 a.m. a 3: 00 p.m.",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "JEANNETTE DELGADO MARTINEZ",
+        "DIRECCION": "CL 79 89A 40 LOCAL 1 26CC PRIMAVERA",
+        "TELEFONO_P": "4813026",
+        "CODIGOPOST": "111021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.103969514370561, 4.704567694316162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 80,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De:  8:00 a.m. a 6:00 p.m s De 8: 00 a.m. a  1: 00 p.m.",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "NIYIRETH CASALLAS VANEGAS",
+        "DIRECCION": "CL 37 SUR 35 47",
+        "TELEFONO_P": "5618309",
+        "CODIGOPOST": "111631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.121919975567977, 4.594272383744276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 81,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V 9: 00 a.m. Â a 3: 00 p.m.Â  De 4: 30 p.m. a 6:00 p.m.",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "VICTOR JULIO GONZALEZ ALFONSO",
+        "DIRECCION": "KR 91 137 26 BARRIO SUBA",
+        "TELEFONO_P": null,
+        "CODIGOPOST": "111121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.085263778428342, 4.735553690062716]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 82,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V: 9:30am â€“ 8:00pm",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "GIOVANNI RENGIFO SANCHEZ",
+        "DIRECCION": "KR 68A 100 04 LOCAL 14 ESQUINA",
+        "TELEFONO_P": "3004648",
+        "CODIGOPOST": "111121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.071632596780063, 4.689765799350241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 83,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "L-V  8:30 a 6:30 p.m.",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "GRUPO EMPRESARIAL PUNTOSERVIS S.A.S",
+        "DIRECCION": "AU NORTE 162 40",
+        "TELEFONO_P": "6491588",
+        "CODIGOPOST": "110131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.047280011436001, 4.743465506775501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 84,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "Lunes a Viernes : 8:00 a.m. a 8: 00 p.m.",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "CLAUDIA MILENA URIZA BUSTOS",
+        "DIRECCION": "KR 14B Â  160 50 LOCAL 23",
+        "TELEFONO_P": "6747035",
+        "CODIGOPOST": "110131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.036229660852882, 4.73853742595506]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 85,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "Lunes a Viernes de 08:00 a.m a 06:00 p.m",
+        "TIPO_OFICI": "AC",
+        "NOMBRE_PUN": "AURA LISETT GONZALEZ RODRIGUEZ",
+        "DIRECCION": "KR 20 10 37",
+        "TELEFONO_P": "7041499",
+        "CODIGOPOST": "111411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.087904697802898, 4.60581888522272]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 22,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 8:00 a.m. a 06:00 p.m. Jornado continua",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. CENTRO INTERNACIONAL",
+        "DIRECCION": "KR 10 26 21 LOCAL 16 HOTEL CROWNE PLAZA TEQUENDAMA",
+        "TELEFONO_P": "(1)2848645",
+        "CODIGOPOST": "110311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.070472253707351, 4.612902239388927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. CHAPINERO",
+        "DIRECCION": "CL 67 8 39",
+        "TELEFONO_P": "(1)2559009",
+        "CODIGOPOST": "110231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.059550887724285, 4.6514550789679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. CHICO",
+        "DIRECCION": "KR 15 85 61",
+        "TELEFONO_P": "(1)5308697",
+        "CODIGOPOST": "110221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.054911100061602, 4.671008090728347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 8:00 a.m. a 06:00 p.m. Jornado continua",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. GALERIAS",
+        "DIRECCION": "CL 53 21 72",
+        "TELEFONO_P": "(1)3462645",
+        "CODIGOPOST": "111311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.072940496223026, 4.641689251665488]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. KENNEDY",
+        "DIRECCION": "KR 78K 35A 85 SUR LOCAL 6",
+        "TELEFONO_P": "(1)2739642",
+        "CODIGOPOST": "110851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.152425443889825, 4.625245577375561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. SOLEDAD",
+        "DIRECCION": "KR 19 39B 31",
+        "TELEFONO_P": "(1)2859133",
+        "CODIGOPOST": "111311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.072730706366499, 4.629513102770329]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 8:00 a.m. a 06:00 p.m. Jornado continua",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. MURILLO TORO",
+        "DIRECCION": "KR 8 12A 03",
+        "TELEFONO_P": "(1)2830533",
+        "CODIGOPOST": "111711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.075511267953644, 4.600118912326908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 8:00 a.m. a 06:00 p.m. Jornado continua",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. PRINCIPAL",
+        "DIRECCION": "DG 25G 95A 55",
+        "TELEFONO_P": "(1)4722005 Ext. 1901",
+        "CODIGOPOST": "110911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.122917464859469, 4.68177088478156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 8:00 a.m. a 12 p.m. y de 1 p.m. a 5 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. QUIRIGUA",
+        "DIRECCION": "TV 94 80A 70 2 PISO",
+        "TELEFONO_P": "(1)4405734",
+        "CODIGOPOST": "111021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.106728599934215, 4.706915879590677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. RESTREPO",
+        "DIRECCION": "CL 15 SUR 18 59",
+        "TELEFONO_P": "(1 )2725603",
+        "CODIGOPOST": "111511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.100049333844311, 4.586896764934314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 32,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. ROSALES",
+        "DIRECCION": "AV 7 70 34",
+        "TELEFONO_P": "(1)2353669",
+        "CODIGOPOST": "110231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.05625955125312, 4.652971822227652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 33,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. SALITRE",
+        "DIRECCION": "KR 69 24A 15 LOCAL 16",
+        "TELEFONO_P": "(1) 5707523",
+        "CODIGOPOST": "110931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.110194047873748, 4.655663432415582]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 34,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. SAN ANDRESITO",
+        "DIRECCION": "CL 13 38 25 ESTACIÃ“N BIOMAX",
+        "TELEFONO_P": "(1)5611205",
+        "CODIGOPOST": "111611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.099283073601896, 4.620554111100718]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 35,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 8:00 a.m. a 12 p.m. y de 1 p.m. a 5 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. SAN VICTORINO",
+        "DIRECCION": "KR 12A 10 12",
+        "TELEFONO_P": "(1)3415875",
+        "CODIGOPOST": "110321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.080688957825316, 4.600689256228522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 36,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 6:00 p.m. Jornada Continua",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. SANTA BARBARA",
+        "DIRECCION": "KR 7 115 60C C SANTA BARBARA LOCAL A 101 102",
+        "TELEFONO_P": "(1)6200190",
+        "CODIGOPOST": "110111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.033023990422151, 4.693507001893247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 37,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. SUBA",
+        "DIRECCION": "KR 92 146B 58",
+        "TELEFONO_P": "(1)6814385",
+        "CODIGOPOST": "111156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.084982791695694, 4.740789665942216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 38,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. TOBERÃN",
+        "DIRECCION": "KR 21 169 62 LOCAL 1 24",
+        "TELEFONO_P": "(1)6710122",
+        "CODIGOPOST": "110131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.043841112306367, 4.750212527383594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 39,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 7:00 p.m. Jornada Continua",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. UNICENTRO BOGOTA",
+        "DIRECCION": "AK 15 123 30 CC UNICENTRO PISO 2 LOCAL 2 222",
+        "TELEFONO_P": "(1)2130279",
+        "CODIGOPOST": "110111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.043030475288916, 4.7021672733806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 40,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 9:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. UNILAGO",
+        "DIRECCION": "CL 77 16 34",
+        "TELEFONO_P": "(1)2575649",
+        "CODIGOPOST": "110221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.059415675104361, 4.66436419735818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 41,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 8:00 a.m. a 12 p.m. y de 1 p.m. a 5 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. VENECIA",
+        "DIRECCION": "AU SUR 52C 43",
+        "TELEFONO_P": "(1)2704251",
+        "CODIGOPOST": "111321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.088655789093423, 4.646481974862917]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 42,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 8:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. FONTIBON",
+        "DIRECCION": "CL 17 96C 31",
+        "TELEFONO_P": "(1)5488143",
+        "CODIGOPOST": "110921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.14251601839625, 4.668281878212334]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 43,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 8:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. AVENIDA  SEXTA",
+        "DIRECCION": "AV 6 42 09",
+        "TELEFONO_P": "(1)7557139",
+        "CODIGOPOST": "111611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.106182341596465, 4.618705054582512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 44,
+        "FREC_RECOL": "Diaria",
+        "FREC_ENTRE": "Diaria",
+        "HORARIO": "De 8:00 a.m. a 12 p.m. y de 1 p.m. a 6 p.m.",
+        "TIPO_OFICI": "PV",
+        "NOMBRE_PUN": "PV. CALLE 118",
+        "DIRECCION": "CL 118 15 15",
+        "TELEFONO_P": "(1)5241284",
+        "CODIGOPOST": "110111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.043409053197422, 4.697432061581543]
+      }
+    }
+  ]
+}
